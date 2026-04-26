@@ -108,6 +108,16 @@
     "endTime": "17:00",
     "room": "Room 303",
     "type": "Lecture"
+  },
+  {
+    "course": "Artificial Intelligence",
+    "code": "CS4001",
+    "instructor": "Mr. John",
+    "day": "Monday",
+    "startTime": "12:00",
+    "endTime": "14:00",
+    "room": "Room 101",
+    "type": "Lecture",
+    "id": 11
   }
-  
 ]
