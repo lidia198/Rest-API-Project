@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "course": "Web Programming II",
+    "code": "CoSc3086",
+    "instructor": "Mr. Mikiyas",
+    "day": "Thursday",
+    "startTime": "16:30",
+    "endTime": "18:30",
+    "room": "Room 801",
+    "type": "Lecture"
+  },
+  {
+    "id": 2,
+    "course": "Web Programming II",
+    "code": "CoSc3086",
+    "instructor": "Mr. Mikiyas",
+    "day": "Friday",
+    "startTime": "08:00",
+    "endTime": "11:00",
+    "room": "Room 501",
+    "type": "Lab"
+  },
+  {
+    "id": 3,
+    "course": "Wireless Communication and Mobile Computing",
+    "code": "CoSc3034",
+    "instructor": "Mr. Tilahun",
+    "day": "Thursday",
+    "startTime": "14:30",
+    "endTime": "16:30",
+    "room": "Room 801",
+    "type": "Lab"
+  },
+  {
+    "id": 4,
+    "course": "Wireless Communication and Mobile Computing",
+    "code": "CoSc3034",
+    "instructor": "Mr. Tilahun",
+    "day": "Wednesday",
+    "startTime": "16:30",
+    "endTime": "18:30",
+    "room": "Room 203",
+    "type": "Lecture"
+  },
+  {
+    "id": 5,
+    "course": "Computer Graphics",
+    "code": "CoSc3072",
+    "instructor": "Mr. Samuel",
+    "day": "Monday",
+    "startTime": "07:00",
+    "endTime": "09:00",
+    "room": "Room 501",
+    "type": "Lab"
+  },
+  {
+    "id": 6,
+    "course": "Computer Graphics",
+    "code": "CoSc3072",
+    "instructor": "Mr. Samuel",
+    "day": "Tuesday",
+    "startTime": "14:30",
+    "endTime": "16:30",
+    "room": "Room 301",
+    "type": "Lecture"
+  },
+  {
+    "id": 7,
+    "course": "Real-Time and Embedded Systems",
+    "code": "CoSc3026",
+    "instructor": "Mr. Tegene",
+    "day": "Thursday",
+    "startTime": "07:00",
+    "endTime": "09:00",
+    "room": "Room 304",
+    "type": "Lab"
+  },
+  {
+    "id": 8,
+    "course": "Real-Time and Embedded Systems",
+    "code": "CoSc3026",
+    "instructor": "Mr. Tegene",
+    "day": "Monday",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "room": "Room 501",
+    "type": "Lecture"
+  },
+  {
+    "id": 9,
+    "course": "Design and Analysis of Algorithms",
+    "code": "CoSc3094",
+    "instructor": "Dr. Solomon",
+    "day": "Wednesday",
+    "startTime": "07:30",
+    "endTime": "10:30",
+    "room": "Room 303",
+    "type": "Lecture"
+  },
+  {
+    "id": 10,
+    "course": "Numerical Analysis",
+    "code": "MATH2082",
+    "instructor": "Dr. Mesfin",
+    "day": "Friday",
+    "startTime": "14:30",
+    "endTime": "17:00",
+    "room": "Room 303",
+    "type": "Lecture"
+  }
+  
+]
