@@ -11,17 +11,6 @@
     "type": "Lecture"
   },
   {
-    "id": 2,
-    "course": "Web Programming II",
-    "code": "CoSc3086",
-    "instructor": "Mr. Mikiyas",
-    "day": "Friday",
-    "startTime": "08:00",
-    "endTime": "11:00",
-    "room": "Room 501",
-    "type": "Lab"
-  },
-  {
     "id": 3,
     "course": "Wireless Communication and Mobile Computing",
     "code": "CoSc3034",
