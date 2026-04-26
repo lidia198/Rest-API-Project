@@ -103,10 +103,10 @@
     "course": "Numerical Analysis",
     "code": "MATH2082",
     "instructor": "Dr. Mesfin",
-    "day": "Friday",
-    "startTime": "14:30",
-    "endTime": "17:00",
-    "room": "Room 303",
+    "day": "Tuesday",
+    "startTime": "16:30",
+    "endTime": "18:00",
+    "room": "Room 501",
     "type": "Lecture"
   },
   {

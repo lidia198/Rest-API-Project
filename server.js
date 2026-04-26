@@ -37,7 +37,7 @@ const server = http.createServer(async (req, res) => {
             res.end('Schedule Not Found');
         }
 
-    // POST create schedule item
+    
     } else if (req.url === '/api/schedule' && req.method === 'POST') {
         let body = '';
         req.on('data', chunk => { body += chunk.toString(); });
@@ -57,7 +57,7 @@ const server = http.createServer(async (req, res) => {
             res.end(JSON.stringify(newItem));
         });
 
-    // PUT update schedule item
+    
     } else if (req.url.startsWith('/api/schedule/') && req.method === 'PUT') {
         let body = '';
         req.on('data', chunk => { body += chunk.toString(); });
@@ -82,7 +82,7 @@ const server = http.createServer(async (req, res) => {
             }
         });
 
-    // DELETE schedule item
+    
     } else if (req.url.startsWith('/api/schedule/') && req.method === 'DELETE') {
         const id = parseInt(req.url.split('/')[3]);
 
@@ -102,7 +102,7 @@ const server = http.createServer(async (req, res) => {
             res.end('Schedule Not Found');
         }
 
-    // Fallback
+    
     } else {
         res.writeHead(404, { 'Content-Type': 'text/plain' });
         res.end('Route Not Found');
